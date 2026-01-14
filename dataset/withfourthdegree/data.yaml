@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['First-Degree', 'Second-Degree', 'Third-Degree', 'Fourth-Degree', 'Normal Skin']
